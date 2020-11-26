@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi. I'm Gegeact
+Hi. I'm Gegeact 🧔
 
-Find Me on <br>
+Find Me on 🌎 <br>
 Instagram [@Gegeact](https://www.instagram.com/gegeact) <br>
 Twitter [Gegeact](https://Twitter.com/gegeact)
 
