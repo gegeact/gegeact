@@ -16,7 +16,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br>
-### he's my mentor [Tobils][tobils]
+he's my mentor [Tobils][tobils]
 
 
 [twitter]: https://twitter.com/gegeact
