@@ -1,6 +1,6 @@
  
 ### Hi there, I'm Gegeact👋
- [![Twitter Follow](https://img.shields.io/twitter/follow/gegeact?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/gegeact?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=gegeact)
  <br />
     <img src="https://github-readme-stats.vercel.app/api?username=gegeact&show_icons=true"/>
  <br />
