@@ -27,7 +27,7 @@
 
 
 [twitter]: https://twitter.com/gegeact
-[youtube]: https://youtube.com/gegeact
+[youtube]: https://www.youtube.com/channel/UCps1HRxiRNxrIRp_ZzNWH5Q
 [instagram]: https://instagram.com/gegeact
 [linkedin]: https://linkedin.com/in/gegeact
 [github]: https://github.com/gegeact
